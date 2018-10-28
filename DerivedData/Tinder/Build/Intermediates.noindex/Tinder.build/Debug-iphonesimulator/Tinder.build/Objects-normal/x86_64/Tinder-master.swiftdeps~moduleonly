@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "787bd6399fb58586cb68ef3a32a31514"
+build_time: [1540752366, 541666000]
+inputs:
+  "/Users/shrijanaryal/Desktop/ios/Tinder/Tinder/ProfileViewController.swift": [1540747666, 0]
+  "/Users/shrijanaryal/Desktop/ios/Tinder/Tinder/BaseTransition.swift": [1540752323, 0]
+  "/Users/shrijanaryal/Desktop/ios/Tinder/Tinder/ViewController.swift": [1540745721, 0]
+  "/Users/shrijanaryal/Desktop/ios/Tinder/Tinder/AppDelegate.swift": [1540745721, 0]
+  "/Users/shrijanaryal/Desktop/ios/Tinder/Tinder/FadeTransition.swift": [1540752292, 0]
+  "/Users/shrijanaryal/Desktop/ios/Tinder/Tinder/CardsViewController.swift": [1540747556, 0]
